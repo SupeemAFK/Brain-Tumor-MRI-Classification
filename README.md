@@ -29,3 +29,4 @@
 # Testing
 ![image](https://github.com/SupeemAFK/Brain-Tumor-MRI-Classification/assets/83326313/f6d23713-ce0d-4ad6-932d-a0392f24677e)
 
+### View training [code](https://github.com/SupeemAFK/Brain-Tumor-MRI-Classification/blob/main/Training.ipynb)
