@@ -24,9 +24,9 @@
 Accuracy result is 84%
 
 ## Training Performances
-![image](https://github.com/SupeemAFK/Brain-Tumor-MRI-Classification/assets/83326313/f7c6bb99-43ac-41e7-842e-33058d779532)
+![image](https://github.com/SupeemAFK/Brain-Tumor-MRI-Classification/assets/83326313/968e4e08-4503-412c-8c18-2f3a20d7e6b4)
 
 ## Testing
-![image](https://github.com/SupeemAFK/Brain-Tumor-MRI-Classification/assets/83326313/f6d23713-ce0d-4ad6-932d-a0392f24677e)
+![image](https://github.com/SupeemAFK/Brain-Tumor-MRI-Classification/assets/83326313/c1b6374f-27f9-4272-8af3-057f3165b8ef)
 
 View training [code](https://github.com/SupeemAFK/Brain-Tumor-MRI-Classification/blob/main/Training.ipynb)
