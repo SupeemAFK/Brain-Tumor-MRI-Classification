@@ -21,7 +21,7 @@
     conda install -c conda-forge matplotlib
     
 ## Accuracy
-Accuracy result is 84%
+Accuracy result is 89%
 
 ## Training Performances
 ![image](https://github.com/SupeemAFK/Brain-Tumor-MRI-Classification/assets/83326313/968e4e08-4503-412c-8c18-2f3a20d7e6b4)
